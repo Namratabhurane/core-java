@@ -6,6 +6,7 @@ public class Variable_study {
 		// TODO Auto-generated method stub
 		
 		System.out.println("velocity");
+		System.out.println("namrata");
 
 	}
 
